@@ -13,13 +13,13 @@ Run this experiment in both dark and light room settings (record initial ambient
 Report the observed 'jitter' based on misalignment with the free-running PWM module on the WS2012.
 
 ## In order to reach these functions, we found something useful in the pico_example folder and we wrote these codes:
-1. the main code [i2c_bus_scan.c](https://github.com/xcyxcyxcyxcy/lab2B-part08/blob/main/code/i2c_bus_scan.c)
-2. the [pio_i2c.c](https://github.com/xcyxcyxcyxcy/lab2B-part08/blob/main/code/pio_i2c.c)
+1. the main code [i2c_bus_scan.c](https://github.com/xcyxcyxcyxcy/lab2B-part09/blob/main/code/i2c_bus_scan.c)
+2. the [pio_i2c.c](https://github.com/xcyxcyxcyxcy/lab2B-part09/blob/main/code/pio_i2c.c)
 
 ## Results:
 
-a. screen <div align=center><img width="500" height="350" src="https://github.com/xcyxcyxcyxcy/lab2B-part08/blob/main/proximity%20%26%20color.png"/></div>
+a. screen <div align=center><img width="500" height="350" src="https://github.com/xcyxcyxcyxcy/lab2B-part09/blob/main/screen.png"/></div>
 
-b. color <div align=center><img width="500" height="350" src="https://github.com/xcyxcyxcyxcy/lab2B-part08/blob/main/proximity%20%26%20color.png"/></div>
-<div align=center><img width="500" height="350" src="https://github.com/xcyxcyxcyxcy/lab2B-part08/blob/main/proximity%20%26%20color.png"/></div>
-<div align=center><img width="500" height="350" src="https://github.com/xcyxcyxcyxcy/lab2B-part08/blob/main/proximity%20%26%20color.png"/></div>
+b. color <div align=center><img width="500" height="700" src="https://github.com/xcyxcyxcyxcy/lab2B-part09/blob/main/red.jpeg"/></div>
+<div align=center><img width="500" height="700" src="https://github.com/xcyxcyxcyxcy/lab2B-part09/blob/main/green.jpeg"/></div>
+<div align=center><img width="500" height="700" src="https://github.com/xcyxcyxcyxcy/lab2B-part09/blob/main/blue.jpeg"/></div>
